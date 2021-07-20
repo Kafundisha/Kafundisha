@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kafundisha
-- 👀 I’m interested in All forms of programing
+- 👀 I’m interested in All forms of programming
 - 🌱 I’m currently learning C# in visual studio
 - 💞️ I’m looking to collaborate on Android application projects
 - 📫 How to reach me ...
